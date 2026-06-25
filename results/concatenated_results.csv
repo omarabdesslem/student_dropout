@@ -1,0 +1,10 @@
+name_of_method,date_time,metric,value,MAE
+all_features_combined_dataset_without_NANs,2026-06-25 11:37:55,r_squared,0.09771231012253145,0.06439781977403065
+all_features_not_trimmed_with_NANs,2026-06-25 10:48:44,r_squared,0.10904946451961961,
+all_features_not_trimmed_without_NANs,2026-06-25 11:24:51,r_squared,0.08348952811112165,0.07465027287399092
+all_features_trimmed_data_with_NANs,2026-06-25 10:47:05,r_squared,0.05371118318894519,
+all_features_trimmed_data_without_NANs,2026-06-25 10:45:39,r_squared,0.05335876863637734,
+just_top_4 copy 2,2026-06-25 10:45:00,r_squared,0.04793966099147906,
+just_top_4 copy 3,2026-06-25 10:45:00,r_squared,0.04793966099147906,
+just_top_4,2026-06-25 10:45:00,r_squared,0.04793966099147906,
+just_top_4_features_combined_dataset_without_NANs,2026-06-25 11:40:05,r_squared,0.06976363923562934,0.0564462712448042
